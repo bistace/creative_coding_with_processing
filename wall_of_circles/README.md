@@ -1,0 +1,1 @@
+![](wall_of_circles.gif)
