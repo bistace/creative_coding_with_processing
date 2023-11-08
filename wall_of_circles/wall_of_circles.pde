@@ -24,7 +24,7 @@ void draw() {
   
   if (frameCount < 600) 
   {
-      saveFrame("frames/####_wall_of_circles.tif");
+      saveFrame("frames/####.tif");
   }
   else 
   {
